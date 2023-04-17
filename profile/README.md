@@ -1,8 +1,14 @@
 ![logo.png](logo.png)
 
-# LibreXFS
+# Libre XFS
 
 LibreXFS is a community open source project to develop and support open and free eXtensions for Financial Services with priority on Linux support.
+
+Instead of 
+
+## Features
+
+
 
 ## Key objectives
 
@@ -21,3 +27,9 @@ flowchart LR
   SSR --> Sensor
   OTH --> OD[Other device]
 ```
+
+## Supported devices
+
+* 
+* [Sensor](
+* [Some other device](
