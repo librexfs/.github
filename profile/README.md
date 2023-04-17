@@ -1,4 +1,4 @@
-![https://raw.githubusercontent.com/librexfs/.github/main/profile/logo.png](https://raw.githubusercontent.com/librexfs/.github/main/profile/logo.png)
+![https://raw.githubusercontent.com/librexfs/.github/main/profile/icon.png](https://raw.githubusercontent.com/librexfs/.github/main/profile/icon.png)
 
 # Libre XFS
 
