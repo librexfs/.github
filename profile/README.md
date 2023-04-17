@@ -1,3 +1,5 @@
+![logo.png](logo.png)
+
 # LibreXFS
 
 LibreXFS is a community open source project to develop and support open and free eXtensions for Financial Services with priority on Linux support.
